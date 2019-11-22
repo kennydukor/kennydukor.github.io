@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.wapic.com"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Wapic</title>
+ <link>https://www.wapic.com</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>2018 </title>
+ <link>https://www.wapic.com/node/180</link>
+ <description>&lt;div class=&quot;field field-name-field-financial-year field-type-number-integer field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Financial Year:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;2018&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-report-title field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Annual Report Title:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;2018 First Quarter Financial Result&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-quarterly-report-title field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Quarterly Report Title:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;2018 First Quarter Analyst Presentation&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;2018 First Quarter Interim Financial Statement&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;2018 Second Quarter Analysts Presentation&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;2018 Second Quarter Financials Result&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 04 Jun 2018 16:23:11 +0000</pubDate>
+ <dc:creator>Donald.Okwuone</dc:creator>
+ <guid isPermaLink="false">180 at https://www.wapic.com</guid>
+ <comments>https://www.wapic.com/node/180#comments</comments>
+</item>
+<item>
+ <title>campaign</title>
+ <link>https://www.wapic.com/node/176</link>
+ <description>&lt;div class=&quot;field field-name-field-campaign-image field-type-image field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;campaign image:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.wapic.com/sites/default/files/campaign-banner%281%29_0.jpg&quot; width=&quot;1468&quot; height=&quot;500&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 06 Oct 2017 15:16:44 +0000</pubDate>
+ <dc:creator>charles</dc:creator>
+ <guid isPermaLink="false">176 at https://www.wapic.com</guid>
+ <comments>https://www.wapic.com/node/176#comments</comments>
+</item>
+<item>
+ <title>Campaign Form</title>
+ <link>https://www.wapic.com/node/175</link>
+ <description>&lt;form class=&quot;webform-client-form&quot; enctype=&quot;multipart/form-data&quot; action=&quot;/rss.xml&quot; method=&quot;post&quot; id=&quot;webform-client-form-175&quot; accept-charset=&quot;UTF-8&quot;&gt;&lt;div&gt;&lt;div class=&quot;form-item webform-component webform-component-textfield&quot; id=&quot;webform-component-full-name&quot;&gt;
+  &lt;label class=&quot;element-invisible&quot; for=&quot;edit-submitted-full-name&quot;&gt;full name &lt;/label&gt;
+ &lt;input type=&quot;text&quot; id=&quot;edit-submitted-full-name&quot; name=&quot;submitted[full_name]&quot; value=&quot;&quot; size=&quot;60&quot; maxlength=&quot;128&quot; class=&quot;form-text&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-textfield&quot; id=&quot;webform-component-phone-number&quot;&gt;
+  &lt;label class=&quot;element-invisible&quot; for=&quot;edit-submitted-phone-number&quot;&gt;phone number &lt;/label&gt;
+ &lt;input type=&quot;text&quot; id=&quot;edit-submitted-phone-number&quot; name=&quot;submitted[phone_number]&quot; value=&quot;&quot; size=&quot;60&quot; maxlength=&quot;128&quot; class=&quot;form-text&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-email&quot; id=&quot;webform-component-email-address&quot;&gt;
+  &lt;label class=&quot;element-invisible&quot; for=&quot;edit-submitted-email-address&quot;&gt;email address &lt;/label&gt;
+ &lt;input class=&quot;email form-text form-email&quot; type=&quot;email&quot; id=&quot;edit-submitted-email-address&quot; name=&quot;submitted[email_address]&quot; size=&quot;60&quot; /&gt;
+&lt;/div&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[sid]&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[page_num]&quot; value=&quot;1&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[page_count]&quot; value=&quot;1&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[finished]&quot; value=&quot;0&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;form_build_id&quot; value=&quot;form-j2L28KdC2SwT3ydANiZkYA5AsNUP3ci5Dqq0UBjWHlM&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;form_id&quot; value=&quot;webform_client_form_175&quot; /&gt;
+&lt;div class=&quot;form-actions form-wrapper&quot; id=&quot;edit-actions&quot;&gt;&lt;input type=&quot;submit&quot; id=&quot;edit-submit&quot; name=&quot;op&quot; value=&quot;Submit&quot; class=&quot;form-submit&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/form&gt;</description>
+ <pubDate>Thu, 05 Oct 2017 11:56:10 +0000</pubDate>
+ <dc:creator>charles</dc:creator>
+ <guid isPermaLink="false">175 at https://www.wapic.com</guid>
+ <comments>https://www.wapic.com/node/175#comments</comments>
+</item>
+<item>
+ <title>2016</title>
+ <link>https://www.wapic.com/node/173</link>
+ <description>&lt;div class=&quot;field field-name-field-ratings-title field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Ratings Title:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;AM Best Rating&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-ratings-body field-type-text-long field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Ratings Body:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;AM Rating Report&amp;lt;br&amp;gt;
+Financial Strength: C++ &amp;lt;br&amp;gt;
+Issuer Credit: b+ &amp;lt;br&amp;gt;
+Overall Outlook: Stable&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-ratings-financial-year field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Ratings Financial Year:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;2016&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 14 Sep 2017 13:00:49 +0000</pubDate>
+ <dc:creator>yinka</dc:creator>
+ <guid isPermaLink="false">173 at https://www.wapic.com</guid>
+ <comments>https://www.wapic.com/node/173#comments</comments>
+</item>
+<item>
+ <title>Insurance | Wapic - Home</title>
+ <link>https://www.wapic.com/node/166</link>
+ <description>&lt;div class=&quot;field field-name-field-banner-image field-type-image field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;banner image:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.wapic.com/sites/default/files/insurance2_0.jpg&quot; width=&quot;1200&quot; height=&quot;444&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.wapic.com/sites/default/files/moov_2_0.jpg&quot; width=&quot;1200&quot; height=&quot;444&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.wapic.com/sites/default/files/Smart%2520life%2520Plan%252B_0.jpg&quot; width=&quot;1200&quot; height=&quot;444&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.wapic.com/sites/default/files/Wapic%2520Education%2520Trust%2520Plan._0.jpg&quot; width=&quot;1200&quot; height=&quot;444&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-product-url field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;product url:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;/product-details?product=pure-life&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;/product-details?product=home&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;/product-details?product=smart-investment&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;/product-details?product=yatch&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;/product-details?product=marine&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;/product-details?product=motor&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-products-name field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;products-name:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;PURE LIFE&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;HOME&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;SMART INVESTMENT&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;YACHT&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;MARINE&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;MOTOR&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-products field-type-image field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;products:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.wapic.com/sites/default/files/pure_life_0_0.jpg&quot; width=&quot;250&quot; height=&quot;244&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.wapic.com/sites/default/files/home_0_0.jpg&quot; width=&quot;250&quot; height=&quot;244&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.wapic.com/sites/default/files/smart_investment_0_0.jpg&quot; width=&quot;250&quot; height=&quot;244&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.wapic.com/sites/default/files/yatch_0_0.jpg&quot; width=&quot;250&quot; height=&quot;244&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.wapic.com/sites/default/files/marine_2_0.jpg&quot; width=&quot;250&quot; height=&quot;244&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.wapic.com/sites/default/files/motor_0_0.jpg&quot; width=&quot;250&quot; height=&quot;244&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-testimonial-name field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Testimonial Name:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Idris  Onibudo&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;Samuel Amponsah Jertt&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;Steve Anthony&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;Abiodun  Emmydan&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-event-name field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Event Name:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt; 2017 Indian Professional Forum&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;POLO&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;Toy Drive&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;Island Maternity Hospital&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-events field-type-image field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;events:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.wapic.com/sites/default/files/events_1_0.jpg&quot; width=&quot;400&quot; height=&quot;109&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.wapic.com/sites/default/files/events_2_0_0.jpg&quot; width=&quot;400&quot; height=&quot;109&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.wapic.com/sites/default/files/events_3_0_0.jpg&quot; width=&quot;400&quot; height=&quot;109&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.wapic.com/sites/default/files/events_4_0_0.jpg&quot; width=&quot;400&quot; height=&quot;109&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-top-text field-type-text-long field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;banner-text:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;   &amp;lt;h3&amp;gt;By setting standards  &amp;lt;/h3&amp;gt;
+&amp;lt;h3&amp;gt; of excellence we are&amp;lt;/h3&amp;gt;
+                            &amp;lt;h1 class=&amp;quot;mooving&amp;quot;&amp;gt;&amp;lt;span&amp;gt;Transforming&amp;lt;/span&amp;gt;&amp;lt;/h1&amp;gt;
+&amp;lt;h3&amp;gt; the Nigerian insurance &amp;lt;/h3&amp;gt;
+&amp;lt;h3&amp;gt;sector&amp;lt;/h3&amp;gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;  &amp;lt;h3&amp;gt;Need Motor Insurance to Keep&amp;lt;/h3&amp;gt;
+                            &amp;lt;h1 class=&amp;quot;mooving&amp;quot;&amp;gt;&amp;lt;span&amp;gt;MOOV&amp;lt;/span&amp;gt;ing?&amp;lt;/h1&amp;gt;
+                            &amp;lt;p class=&amp;quot;hashtag&amp;quot;&amp;gt;#KeepOnMOOVing&amp;lt;/p&amp;gt;
+                            &amp;lt;p&amp;gt;MOOV, MOOV PLUS, MOOV PRESTIGE, MOOV LUXURY&amp;lt;/p&amp;gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&amp;lt;h3&amp;gt; Accumulate funds toward &amp;lt;/h3&amp;gt;
+&amp;lt;h3&amp;gt; meeting short-term obligations&amp;lt;/h3&amp;gt;
+                            &amp;lt;h1 class=&amp;quot;mooving&amp;quot;&amp;gt;#get&amp;lt;span&amp;gt;SMART&amp;lt;/span&amp;gt; &amp;lt;/h1&amp;gt;
+&amp;lt;h3&amp;gt;  Life+ plan &amp;lt;/h3&amp;gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&amp;lt;h3&amp;gt;Save for your child&amp;#039;s education  &amp;lt;br&amp;gt; and protect their future&amp;lt;/h3&amp;gt;
+                            &amp;lt;h1 class=&amp;quot;mooving&amp;quot;&amp;gt;#get&amp;lt;span&amp;gt;SMART&amp;lt;/span&amp;gt;&amp;lt;/h1&amp;gt;
+                            &amp;lt;h3&amp;gt;Scholars plan&amp;lt;/h3&amp;gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-testimonials field-type-text-long field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Testimonials:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Good morning to you. The issue had since been resolved in the most professional manner upholding the tenets of your practice. Cheque received, waiting for clearance. Kudos to you guys. The speed can be improved upon though.
+&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;Wapic is a one stop shop when it comes to insurance in Africa&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;Wapic insurance is one of the Nigeria’s leading insurance company.&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;I like wapic insurance because they are really trying to keep death population less in our society. Health is Wealth as people do say.
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-banner-button field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;banner  button:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt; &amp;lt;a href=&amp;quot;https://mywapic.wapic.com/products/carinsurance/NQ==&amp;quot; class=&amp;quot;btn banner_btn&amp;quot; target=&amp;quot;_blank&amp;quot; style=&amp;quot;display:none;&amp;quot;&amp;gt;GET A QUOTE  &amp;lt;i class=&amp;quot;fa fa-arrow-circle-right fa-lg&amp;quot;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/a&amp;gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt; &amp;lt;a href=&amp;quot;https://mywapic.wapic.com/quotes/carinsurance/NA==&amp;quot; class=&amp;quot;btn banner_btn&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;GET A QUOTE  &amp;lt;i class=&amp;quot;fa fa-arrow-circle-right fa-lg&amp;quot;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/a&amp;gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt; &amp;lt;a href=&amp;quot;https://mywapic.wapic.com/quotes/investmentplans/OQ==&amp;quot; class=&amp;quot;btn banner_btn&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;GET A QUOTE  &amp;lt;i class=&amp;quot;fa fa-arrow-circle-right fa-lg&amp;quot;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/a&amp;gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt; &amp;lt;a href=&amp;quot;https://mywapic.wapic.com/quotes/investmentplans/MTA=&amp;quot; class=&amp;quot;btn banner_btn&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;GET A QUOTE  &amp;lt;i class=&amp;quot;fa fa-arrow-circle-right fa-lg&amp;quot;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/a&amp;gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 07 Aug 2017 16:45:55 +0000</pubDate>
+ <dc:creator>charles</dc:creator>
+ <guid isPermaLink="false">166 at https://www.wapic.com</guid>
+ <comments>https://www.wapic.com/node/166#comments</comments>
+</item>
+<item>
+ <title>House Holder</title>
+ <link>https://www.wapic.com/node/162</link>
+ <description>&lt;form class=&quot;webform-client-form&quot; enctype=&quot;multipart/form-data&quot; action=&quot;/rss.xml&quot; method=&quot;post&quot; id=&quot;webform-client-form-162&quot; accept-charset=&quot;UTF-8&quot;&gt;&lt;div&gt;&lt;div class=&quot;form-item webform-component webform-component-textfield&quot; id=&quot;webform-component-name&quot;&gt;
+  &lt;label for=&quot;edit-submitted-name&quot;&gt;Name &lt;span class=&quot;form-required&quot; title=&quot;This field is required.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;input type=&quot;text&quot; id=&quot;edit-submitted-name&quot; name=&quot;submitted[name]&quot; value=&quot;&quot; size=&quot;32&quot; maxlength=&quot;128&quot; class=&quot;form-text required&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-email&quot; id=&quot;webform-component-email-address&quot;&gt;
+  &lt;label for=&quot;edit-submitted-email-address--2&quot;&gt;Email Address &lt;span class=&quot;form-required&quot; title=&quot;This field is required.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;input class=&quot;email form-text form-email required&quot; type=&quot;email&quot; id=&quot;edit-submitted-email-address--2&quot; name=&quot;submitted[email_address]&quot; size=&quot;32&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-textfield&quot; id=&quot;webform-component-building-location&quot;&gt;
+  &lt;label for=&quot;edit-submitted-building-location&quot;&gt;Building Location &lt;span class=&quot;form-required&quot; title=&quot;This field is required.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;input type=&quot;text&quot; id=&quot;edit-submitted-building-location&quot; name=&quot;submitted[building_location]&quot; value=&quot;&quot; size=&quot;32&quot; maxlength=&quot;128&quot; class=&quot;form-text required&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-textarea&quot; id=&quot;webform-component-list-of-content&quot;&gt;
+  &lt;label for=&quot;edit-submitted-list-of-content&quot;&gt;List of Content &lt;/label&gt;
+ &lt;div class=&quot;form-textarea-wrapper resizable&quot;&gt;&lt;textarea id=&quot;edit-submitted-list-of-content&quot; name=&quot;submitted[list_of_content]&quot; cols=&quot;32&quot; rows=&quot;5&quot; class=&quot;form-textarea&quot;&gt;&lt;/textarea&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-textfield&quot; id=&quot;webform-component-value-of-content&quot;&gt;
+  &lt;label for=&quot;edit-submitted-value-of-content&quot;&gt;Value of Content &lt;/label&gt;
+ &lt;input type=&quot;text&quot; id=&quot;edit-submitted-value-of-content&quot; name=&quot;submitted[value_of_content]&quot; value=&quot;&quot; size=&quot;32&quot; maxlength=&quot;128&quot; class=&quot;form-text&quot; /&gt;
+&lt;/div&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[sid]&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[page_num]&quot; value=&quot;1&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[page_count]&quot; value=&quot;1&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[finished]&quot; value=&quot;0&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;form_build_id&quot; value=&quot;form-VZiofUvqjiN02AHLr4BE0v2vToK6KhGiynlbfZLEzd8&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;form_id&quot; value=&quot;webform_client_form_162&quot; /&gt;
+&lt;div class=&quot;form-actions form-wrapper&quot; id=&quot;edit-actions--2&quot;&gt;&lt;input type=&quot;submit&quot; id=&quot;edit-submit--2&quot; name=&quot;op&quot; value=&quot;Submit&quot; class=&quot;form-submit&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/form&gt;</description>
+ <pubDate>Fri, 28 Jul 2017 08:43:57 +0000</pubDate>
+ <dc:creator>charles</dc:creator>
+ <guid isPermaLink="false">162 at https://www.wapic.com</guid>
+ <comments>https://www.wapic.com/node/162#comments</comments>
+</item>
+<item>
+ <title>Home Owner</title>
+ <link>https://www.wapic.com/node/161</link>
+ <description>&lt;form class=&quot;webform-client-form&quot; enctype=&quot;multipart/form-data&quot; action=&quot;/rss.xml&quot; method=&quot;post&quot; id=&quot;webform-client-form-161&quot; accept-charset=&quot;UTF-8&quot;&gt;&lt;div&gt;&lt;div class=&quot;form-item webform-component webform-component-textfield&quot; id=&quot;webform-component-name&quot;&gt;
+  &lt;label for=&quot;edit-submitted-name--2&quot;&gt;Name &lt;span class=&quot;form-required&quot; title=&quot;This field is required.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;input type=&quot;text&quot; id=&quot;edit-submitted-name--2&quot; name=&quot;submitted[name]&quot; value=&quot;&quot; size=&quot;32&quot; maxlength=&quot;128&quot; class=&quot;form-text required&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-email&quot; id=&quot;webform-component-email&quot;&gt;
+  &lt;label for=&quot;edit-submitted-email&quot;&gt;Email &lt;span class=&quot;form-required&quot; title=&quot;This field is required.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;input class=&quot;email form-text form-email required&quot; type=&quot;email&quot; id=&quot;edit-submitted-email&quot; name=&quot;submitted[email]&quot; size=&quot;32&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-textfield&quot; id=&quot;webform-component-phone-number&quot;&gt;
+  &lt;label for=&quot;edit-submitted-phone-number--2&quot;&gt;Phone Number &lt;span class=&quot;form-required&quot; title=&quot;This field is required.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;input type=&quot;text&quot; id=&quot;edit-submitted-phone-number--2&quot; name=&quot;submitted[phone_number]&quot; value=&quot;&quot; size=&quot;32&quot; maxlength=&quot;128&quot; class=&quot;form-text required&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-textfield&quot; id=&quot;webform-component-building-location&quot;&gt;
+  &lt;label for=&quot;edit-submitted-building-location--2&quot;&gt;Building Location &lt;span class=&quot;form-required&quot; title=&quot;This field is required.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;input type=&quot;text&quot; id=&quot;edit-submitted-building-location--2&quot; name=&quot;submitted[building_location]&quot; value=&quot;&quot; size=&quot;32&quot; maxlength=&quot;128&quot; class=&quot;form-text required&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-textfield&quot; id=&quot;webform-component-value-of-building&quot;&gt;
+  &lt;label for=&quot;edit-submitted-value-of-building&quot;&gt;Value of Building &lt;span class=&quot;form-required&quot; title=&quot;This field is required.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;input type=&quot;text&quot; id=&quot;edit-submitted-value-of-building&quot; name=&quot;submitted[value_of_building]&quot; value=&quot;&quot; size=&quot;32&quot; maxlength=&quot;128&quot; class=&quot;form-text required&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-textarea&quot; id=&quot;webform-component-list-of-content&quot;&gt;
+  &lt;label for=&quot;edit-submitted-list-of-content--2&quot;&gt;List of Content &lt;/label&gt;
+ &lt;div class=&quot;form-textarea-wrapper resizable&quot;&gt;&lt;textarea id=&quot;edit-submitted-list-of-content--2&quot; name=&quot;submitted[list_of_content]&quot; cols=&quot;60&quot; rows=&quot;5&quot; class=&quot;form-textarea&quot;&gt;&lt;/textarea&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-textfield&quot; id=&quot;webform-component-value-of-content-n&quot;&gt;
+  &lt;label for=&quot;edit-submitted-value-of-content-n&quot;&gt;Value of Content (N) &lt;/label&gt;
+ &lt;input type=&quot;text&quot; id=&quot;edit-submitted-value-of-content-n&quot; name=&quot;submitted[value_of_content_n]&quot; value=&quot;&quot; size=&quot;32&quot; maxlength=&quot;128&quot; class=&quot;form-text&quot; /&gt;
+&lt;/div&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[sid]&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[page_num]&quot; value=&quot;1&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[page_count]&quot; value=&quot;1&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[finished]&quot; value=&quot;0&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;form_build_id&quot; value=&quot;form-8qoP2EZU7AK1qch0iohbCpOmppNR8HJNeS8laZz3FQE&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;form_id&quot; value=&quot;webform_client_form_161&quot; /&gt;
+&lt;div class=&quot;form-actions form-wrapper&quot; id=&quot;edit-actions--3&quot;&gt;&lt;input type=&quot;submit&quot; id=&quot;edit-submit--3&quot; name=&quot;op&quot; value=&quot;Submit&quot; class=&quot;form-submit&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/form&gt;</description>
+ <pubDate>Fri, 28 Jul 2017 08:18:14 +0000</pubDate>
+ <dc:creator>charles</dc:creator>
+ <guid isPermaLink="false">161 at https://www.wapic.com</guid>
+ <comments>https://www.wapic.com/node/161#comments</comments>
+</item>
+<item>
+ <title>Group Assurance Policy</title>
+ <link>https://www.wapic.com/node/160</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h4&gt;Product Brief:&lt;/h4&gt;
+&lt;p&gt;Group Life assurance scheme is an insurance solution designed for staffs of corporate organizations and members of associations and social clubs. It provides financial protection for loved ones of an employee working in organization or member of an association in case of demise whilst in service.&lt;/p&gt;
+&lt;h4&gt;Target Market:&lt;/h4&gt;
+&lt;p&gt; Corporations&lt;/p&gt;
+&lt;h4&gt;Benefits&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;The benefits payable under the policy is tax free&lt;/li&gt;
+&lt;li&gt;Benefits upon demise is paid to the beneficiaries of the deceased employee&lt;/li&gt;
+&lt;li&gt;Discharges any responsibilities employers may feel towards staff’s dependants&lt;/li&gt;
+&lt;li&gt;It aids employers in attracting and retain best quality staff&lt;/li&gt;
+&lt;li&gt;Mitigates employer’s unplanned financial payout associated with the death of an employee&lt;/li&gt;
+&lt;li&gt;Fosters good relationship between the employer and the employees as the employee is rest assured that his/her loved one would not be financially strained&lt;/li&gt;
+&lt;li&gt;&amp;gt;It relieves associations and friends from the burden of contributing toward the financial needs of a bereaved member’s family&lt;/li&gt;
+&lt;li&gt;It relieves the government of the burden of providing for employees’ family and liberates the society of the menace of social problems of disintegrate family members arising from death of a bread-winner&lt;/li&gt;
+&lt;li&gt;•	It gives a creditor sufficient level of comfort to advance loan which indirectly contributes toward the growth of an economy&lt;/li&gt;
+&lt;/ul&gt;&lt;h4&gt;Features&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;It is an yearly renewable policy&lt;/li&gt;
+&lt;li&gt;Death Benefit is a minimum of three times the annual emolument for employee coverage according the Pension reform Act of 2014&lt;/li&gt;
+&lt;li&gt;It provides optional cover for critical illness, burial expense, terminal/ accelerated benefit, accidental medical benefit, permanent disability&lt;/li&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;li&gt;It also accommodates spousal benefits for employees on a scheme&lt;/li&gt;
+&lt;li&gt;Premium payment is annual&lt;/li&gt;
+&lt;li&gt;Guaranteed death benefit becomes payable upon demise within the specified period&lt;/li&gt;
+&lt;li&gt;Sum assured can be increased by the policyholder&lt;/li&gt;
+&lt;li&gt;There must be a minimum of three (3) persons to incept cover&lt;/li&gt;
+&lt;li&gt;It covers death as a result of any occurrence except suicide&lt;/li&gt;
+&lt;li&gt;It provides worldwide coverage &lt;/li&gt;
+&lt;li&gt;Retirement age is determined per scheme but to a maximum of 65 yrs. &lt;/li&gt;
+&lt;li&gt;Medical Examination may be required for some members&lt;/li&gt;
+&lt;/ul&gt;&lt;h4&gt;Policy Documentation&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Completed proposal form&lt;/li&gt;
+&lt;li&gt;Copy of vehicle license&lt;/li&gt;
+&lt;li&gt;Proof of ownership&lt;/li&gt;
+&lt;/ul&gt;&lt;h4&gt;How it Works&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Proposer provides Wapic with the names, dates of birth, annual emolument/sum assured of each member with the selected options (if any)&lt;/li&gt;
+&lt;li&gt;Wapic computes the provisional premium payable &lt;/li&gt;
+&lt;li&gt;Proposer accepts premium payable, fills required Proposal Form &amp;amp; provides KYC documents&lt;/li&gt;
+&lt;li&gt;Proposer makes premium payment&lt;/li&gt;
+&lt;li&gt;Wapic issues policy document and advises members to undergo medical examination (where necessary)&lt;/li&gt;
+&lt;li&gt;Wapic issues policy document&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-insurance-category field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Insurance Category:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;GROUP&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-corporate-image field-type-image field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Corporate Image:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.wapic.com/sites/default/files/GroupLife.jpg&quot; width=&quot;350&quot; height=&quot;253&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-product-summary field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Product Summary:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Group Life assurance scheme is an insurance solution designed for staffs of corporate organizations ...&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 27 Jul 2017 14:34:16 +0000</pubDate>
+ <dc:creator>charles</dc:creator>
+ <guid isPermaLink="false">160 at https://www.wapic.com</guid>
+ <comments>https://www.wapic.com/node/160#comments</comments>
+</item>
+<item>
+ <title>Pure Life Request Form</title>
+ <link>https://www.wapic.com/node/159</link>
+ <description>&lt;form class=&quot;webform-client-form&quot; enctype=&quot;multipart/form-data&quot; action=&quot;/rss.xml&quot; method=&quot;post&quot; id=&quot;webform-client-form-159&quot; accept-charset=&quot;UTF-8&quot;&gt;&lt;div&gt;&lt;div class=&quot;form-item webform-component webform-component-textfield&quot; id=&quot;webform-component-full-name&quot;&gt;
+  &lt;label for=&quot;edit-submitted-full-name--2&quot;&gt;Full Name &lt;span class=&quot;form-required&quot; title=&quot;This field is required.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;input type=&quot;text&quot; id=&quot;edit-submitted-full-name--2&quot; name=&quot;submitted[full_name]&quot; value=&quot;&quot; size=&quot;32&quot; maxlength=&quot;128&quot; class=&quot;form-text required&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-email&quot; id=&quot;webform-component-email-address&quot;&gt;
+  &lt;label for=&quot;edit-submitted-email-address--3&quot;&gt;Email Address &lt;span class=&quot;form-required&quot; title=&quot;This field is required.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;input class=&quot;email form-text form-email required&quot; type=&quot;email&quot; id=&quot;edit-submitted-email-address--3&quot; name=&quot;submitted[email_address]&quot; size=&quot;32&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-textfield&quot; id=&quot;webform-component-phone-number&quot;&gt;
+  &lt;label for=&quot;edit-submitted-phone-number--3&quot;&gt;Phone Number &lt;span class=&quot;form-required&quot; title=&quot;This field is required.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;input type=&quot;text&quot; id=&quot;edit-submitted-phone-number--3&quot; name=&quot;submitted[phone_number]&quot; value=&quot;&quot; size=&quot;32&quot; maxlength=&quot;128&quot; class=&quot;form-text required&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-select&quot; id=&quot;webform-component-product&quot;&gt;
+  &lt;label for=&quot;edit-submitted-product&quot;&gt;Product &lt;/label&gt;
+ &lt;select id=&quot;edit-submitted-product&quot; name=&quot;submitted[product]&quot; class=&quot;form-select&quot;&gt;&lt;option value=&quot;&quot; selected=&quot;selected&quot;&gt;- None -&lt;/option&gt;&lt;option value=&quot;Whole_Life_Plan&quot;&gt;Whole Life Plan&lt;/option&gt;&lt;option value=&quot;Term_Assurance_Plan&quot;&gt;Term Assurance Plan&lt;/option&gt;&lt;option value=&quot;Mortgage_Protection_Plan&quot;&gt;Mortgage Protection Plan&lt;/option&gt;&lt;option value=&quot;Keyman_Assurance_Plan&quot;&gt;Keyman Assurance Plan&lt;/option&gt;&lt;option value=&quot;Wapic_Life_Plan&quot;&gt;Wapic Life Plan&lt;/option&gt;&lt;/select&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-textarea&quot; id=&quot;webform-component-message&quot;&gt;
+  &lt;label for=&quot;edit-submitted-message&quot;&gt;Message &lt;/label&gt;
+ &lt;div class=&quot;form-textarea-wrapper resizable&quot;&gt;&lt;textarea id=&quot;edit-submitted-message&quot; name=&quot;submitted[message]&quot; cols=&quot;90%&quot; rows=&quot;5&quot; class=&quot;form-textarea&quot;&gt;&lt;/textarea&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-textfield&quot; id=&quot;webform-component-date-of-birth&quot;&gt;
+  &lt;label for=&quot;edit-submitted-date-of-birth&quot;&gt;Date of Birth &lt;/label&gt;
+ &lt;input type=&quot;text&quot; id=&quot;edit-submitted-date-of-birth&quot; name=&quot;submitted[date_of_birth]&quot; value=&quot;&quot; size=&quot;42&quot; maxlength=&quot;128&quot; class=&quot;form-text&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-textfield&quot; id=&quot;webform-component-sum-assured&quot;&gt;
+  &lt;label for=&quot;edit-submitted-sum-assured&quot;&gt;Sum Assured &lt;/label&gt;
+ &lt;input type=&quot;text&quot; id=&quot;edit-submitted-sum-assured&quot; name=&quot;submitted[sum_assured]&quot; value=&quot;&quot; size=&quot;42&quot; maxlength=&quot;128&quot; class=&quot;form-text&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-textfield&quot; id=&quot;webform-component-durationno-of-years&quot;&gt;
+  &lt;label for=&quot;edit-submitted-durationno-of-years&quot;&gt;Duration(No of Years) &lt;/label&gt;
+ &lt;input type=&quot;text&quot; id=&quot;edit-submitted-durationno-of-years&quot; name=&quot;submitted[durationno_of_years]&quot; value=&quot;&quot; size=&quot;42&quot; maxlength=&quot;128&quot; class=&quot;form-text&quot; /&gt;
+&lt;/div&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[sid]&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[page_num]&quot; value=&quot;1&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[page_count]&quot; value=&quot;1&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[finished]&quot; value=&quot;0&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;form_build_id&quot; value=&quot;form-dwJ1PgPctHz8sv8KVdNd7PCPTQFW4xCpndaOU8rEsHY&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;form_id&quot; value=&quot;webform_client_form_159&quot; /&gt;
+&lt;div class=&quot;form-actions form-wrapper&quot; id=&quot;edit-actions--4&quot;&gt;&lt;input type=&quot;submit&quot; id=&quot;edit-submit--4&quot; name=&quot;op&quot; value=&quot;Submit&quot; class=&quot;form-submit&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/form&gt;</description>
+ <pubDate>Wed, 26 Jul 2017 12:49:44 +0000</pubDate>
+ <dc:creator>charles</dc:creator>
+ <guid isPermaLink="false">159 at https://www.wapic.com</guid>
+ <comments>https://www.wapic.com/node/159#comments</comments>
+</item>
+<item>
+ <title>Smart Product request form</title>
+ <link>https://www.wapic.com/node/158</link>
+ <description>&lt;form class=&quot;webform-client-form&quot; enctype=&quot;multipart/form-data&quot; action=&quot;/rss.xml&quot; method=&quot;post&quot; id=&quot;webform-client-form-158&quot; accept-charset=&quot;UTF-8&quot;&gt;&lt;div&gt;&lt;div class=&quot;form-item webform-component webform-component-textfield&quot; id=&quot;webform-component-full-name&quot;&gt;
+  &lt;label for=&quot;edit-submitted-full-name--3&quot;&gt;Full Name &lt;span class=&quot;form-required&quot; title=&quot;This field is required.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;input type=&quot;text&quot; id=&quot;edit-submitted-full-name--3&quot; name=&quot;submitted[full_name]&quot; value=&quot;&quot; size=&quot;42&quot; maxlength=&quot;128&quot; class=&quot;form-text required&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-email&quot; id=&quot;webform-component-email-address&quot;&gt;
+  &lt;label for=&quot;edit-submitted-email-address--4&quot;&gt;Email Address &lt;span class=&quot;form-required&quot; title=&quot;This field is required.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;input class=&quot;email form-text form-email required&quot; type=&quot;email&quot; id=&quot;edit-submitted-email-address--4&quot; name=&quot;submitted[email_address]&quot; size=&quot;42&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-textfield&quot; id=&quot;webform-component-phone-number&quot;&gt;
+  &lt;label for=&quot;edit-submitted-phone-number--4&quot;&gt;Phone Number &lt;span class=&quot;form-required&quot; title=&quot;This field is required.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;input type=&quot;text&quot; id=&quot;edit-submitted-phone-number--4&quot; name=&quot;submitted[phone_number]&quot; value=&quot;&quot; size=&quot;42&quot; maxlength=&quot;128&quot; class=&quot;form-text required&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-date&quot; id=&quot;webform-component-date-of-birth-1&quot;&gt;
+  &lt;label for=&quot;edit-submitted-date-of-birth-1&quot;&gt;Date of Birth &lt;/label&gt;
+ &lt;div class=&quot;webform-container-inline&quot;&gt;&lt;div class=&quot;form-item form-type-select form-item-submitted-date-of-birth-1-month&quot;&gt;
+  &lt;label class=&quot;element-invisible&quot; for=&quot;edit-submitted-date-of-birth-1-month&quot;&gt;Month &lt;/label&gt;
+ &lt;select class=&quot;month form-select&quot; id=&quot;edit-submitted-date-of-birth-1-month&quot; name=&quot;submitted[date_of_birth_1][month]&quot;&gt;&lt;option value=&quot;&quot; selected=&quot;selected&quot;&gt;Month&lt;/option&gt;&lt;option value=&quot;1&quot;&gt;Jan&lt;/option&gt;&lt;option value=&quot;2&quot;&gt;Feb&lt;/option&gt;&lt;option value=&quot;3&quot;&gt;Mar&lt;/option&gt;&lt;option value=&quot;4&quot;&gt;Apr&lt;/option&gt;&lt;option value=&quot;5&quot;&gt;May&lt;/option&gt;&lt;option value=&quot;6&quot;&gt;Jun&lt;/option&gt;&lt;option value=&quot;7&quot;&gt;Jul&lt;/option&gt;&lt;option value=&quot;8&quot;&gt;Aug&lt;/option&gt;&lt;option value=&quot;9&quot;&gt;Sep&lt;/option&gt;&lt;option value=&quot;10&quot;&gt;Oct&lt;/option&gt;&lt;option value=&quot;11&quot;&gt;Nov&lt;/option&gt;&lt;option value=&quot;12&quot;&gt;Dec&lt;/option&gt;&lt;/select&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item form-type-select form-item-submitted-date-of-birth-1-day&quot;&gt;
+  &lt;label class=&quot;element-invisible&quot; for=&quot;edit-submitted-date-of-birth-1-day&quot;&gt;Day &lt;/label&gt;
+ &lt;select class=&quot;day form-select&quot; id=&quot;edit-submitted-date-of-birth-1-day&quot; name=&quot;submitted[date_of_birth_1][day]&quot;&gt;&lt;option value=&quot;&quot; selected=&quot;selected&quot;&gt;Day&lt;/option&gt;&lt;option value=&quot;1&quot;&gt;1&lt;/option&gt;&lt;option value=&quot;2&quot;&gt;2&lt;/option&gt;&lt;option value=&quot;3&quot;&gt;3&lt;/option&gt;&lt;option value=&quot;4&quot;&gt;4&lt;/option&gt;&lt;option value=&quot;5&quot;&gt;5&lt;/option&gt;&lt;option value=&quot;6&quot;&gt;6&lt;/option&gt;&lt;option value=&quot;7&quot;&gt;7&lt;/option&gt;&lt;option value=&quot;8&quot;&gt;8&lt;/option&gt;&lt;option value=&quot;9&quot;&gt;9&lt;/option&gt;&lt;option value=&quot;10&quot;&gt;10&lt;/option&gt;&lt;option value=&quot;11&quot;&gt;11&lt;/option&gt;&lt;option value=&quot;12&quot;&gt;12&lt;/option&gt;&lt;option value=&quot;13&quot;&gt;13&lt;/option&gt;&lt;option value=&quot;14&quot;&gt;14&lt;/option&gt;&lt;option value=&quot;15&quot;&gt;15&lt;/option&gt;&lt;option value=&quot;16&quot;&gt;16&lt;/option&gt;&lt;option value=&quot;17&quot;&gt;17&lt;/option&gt;&lt;option value=&quot;18&quot;&gt;18&lt;/option&gt;&lt;option value=&quot;19&quot;&gt;19&lt;/option&gt;&lt;option value=&quot;20&quot;&gt;20&lt;/option&gt;&lt;option value=&quot;21&quot;&gt;21&lt;/option&gt;&lt;option value=&quot;22&quot;&gt;22&lt;/option&gt;&lt;option value=&quot;23&quot;&gt;23&lt;/option&gt;&lt;option value=&quot;24&quot;&gt;24&lt;/option&gt;&lt;option value=&quot;25&quot;&gt;25&lt;/option&gt;&lt;option value=&quot;26&quot;&gt;26&lt;/option&gt;&lt;option value=&quot;27&quot;&gt;27&lt;/option&gt;&lt;option value=&quot;28&quot;&gt;28&lt;/option&gt;&lt;option value=&quot;29&quot;&gt;29&lt;/option&gt;&lt;option value=&quot;30&quot;&gt;30&lt;/option&gt;&lt;option value=&quot;31&quot;&gt;31&lt;/option&gt;&lt;/select&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item form-type-select form-item-submitted-date-of-birth-1-year&quot;&gt;
+  &lt;label class=&quot;element-invisible&quot; for=&quot;edit-submitted-date-of-birth-1-year&quot;&gt;Year &lt;/label&gt;
+ &lt;select class=&quot;year form-select&quot; id=&quot;edit-submitted-date-of-birth-1-year&quot; name=&quot;submitted[date_of_birth_1][year]&quot;&gt;&lt;option value=&quot;&quot; selected=&quot;selected&quot;&gt;Year&lt;/option&gt;&lt;option value=&quot;2016&quot;&gt;2016&lt;/option&gt;&lt;option value=&quot;2017&quot;&gt;2017&lt;/option&gt;&lt;option value=&quot;2018&quot;&gt;2018&lt;/option&gt;&lt;option value=&quot;2019&quot;&gt;2019&lt;/option&gt;&lt;option value=&quot;2020&quot;&gt;2020&lt;/option&gt;&lt;/select&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-select&quot; id=&quot;webform-component-product&quot;&gt;
+  &lt;label for=&quot;edit-submitted-product--2&quot;&gt;Product &lt;span class=&quot;form-required&quot; title=&quot;This field is required.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;select id=&quot;edit-submitted-product--2&quot; name=&quot;submitted[product]&quot; class=&quot;form-select required&quot;&gt;&lt;option value=&quot;&quot; selected=&quot;selected&quot;&gt;- Select -&lt;/option&gt;&lt;option value=&quot;Smart_Life_+_Plan&quot;&gt;Smart Life + Plan&lt;/option&gt;&lt;option value=&quot;Smart_Life_Plan&quot;&gt;Smart Life Plan&lt;/option&gt;&lt;option value=&quot;Smart_Senior_Plan&quot;&gt;Smart Senior Plan&lt;/option&gt;&lt;option value=&quot;Smart_Scholar_Plan&quot;&gt;Smart Scholar Plan&lt;/option&gt;&lt;/select&gt;
+ &lt;div class=&quot;description&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-textarea&quot; id=&quot;webform-component-message&quot;&gt;
+  &lt;label for=&quot;edit-submitted-message--2&quot;&gt;Message &lt;/label&gt;
+ &lt;div class=&quot;form-textarea-wrapper resizable&quot;&gt;&lt;textarea id=&quot;edit-submitted-message--2&quot; name=&quot;submitted[message]&quot; cols=&quot;90%&quot; rows=&quot;5&quot; class=&quot;form-textarea&quot;&gt;&lt;/textarea&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-textfield&quot; id=&quot;webform-component-annual-contribution&quot;&gt;
+  &lt;label for=&quot;edit-submitted-annual-contribution&quot;&gt;Annual Contribution &lt;/label&gt;
+ &lt;input type=&quot;text&quot; id=&quot;edit-submitted-annual-contribution&quot; name=&quot;submitted[annual_contribution]&quot; value=&quot;&quot; size=&quot;42&quot; maxlength=&quot;128&quot; class=&quot;form-text&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-textfield&quot; id=&quot;webform-component-sum-assured&quot;&gt;
+  &lt;label for=&quot;edit-submitted-sum-assured--2&quot;&gt;Sum Assured &lt;/label&gt;
+ &lt;input type=&quot;text&quot; id=&quot;edit-submitted-sum-assured--2&quot; name=&quot;submitted[sum_assured]&quot; value=&quot;&quot; size=&quot;42&quot; maxlength=&quot;128&quot; class=&quot;form-text&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;form-item webform-component webform-component-textfield&quot; id=&quot;webform-component-durationno-of-years&quot;&gt;
+  &lt;label for=&quot;edit-submitted-durationno-of-years--2&quot;&gt;Duration(No of Years) &lt;span class=&quot;form-required&quot; title=&quot;This field is required.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;input type=&quot;text&quot; id=&quot;edit-submitted-durationno-of-years--2&quot; name=&quot;submitted[durationno_of_years]&quot; value=&quot;&quot; size=&quot;60&quot; maxlength=&quot;128&quot; class=&quot;form-text required&quot; /&gt;
+&lt;/div&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[sid]&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[page_num]&quot; value=&quot;1&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[page_count]&quot; value=&quot;1&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[finished]&quot; value=&quot;0&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;form_build_id&quot; value=&quot;form-Oh7rJoIjvFo6acHAhVjfRx4Uyu2ATT9RmfyAeEPiiRU&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;form_id&quot; value=&quot;webform_client_form_158&quot; /&gt;
+&lt;div class=&quot;form-actions form-wrapper&quot; id=&quot;edit-actions--5&quot;&gt;&lt;input type=&quot;submit&quot; id=&quot;edit-submit--5&quot; name=&quot;op&quot; value=&quot;Submit&quot; class=&quot;form-submit&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/form&gt;</description>
+ <pubDate>Wed, 26 Jul 2017 11:42:42 +0000</pubDate>
+ <dc:creator>charles</dc:creator>
+ <guid isPermaLink="false">158 at https://www.wapic.com</guid>
+ <comments>https://www.wapic.com/node/158#comments</comments>
+</item>
+</channel>
+</rss>
